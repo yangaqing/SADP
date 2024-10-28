@@ -3,7 +3,7 @@
 * pytorch==1.8.0
 * cuda11.1
 
-##Train steps
+## Train steps
 * Prepare the data and put it in data folder
 * Select the pre-training model in weights folder
 * run "train.py"
